@@ -9,7 +9,7 @@
 
 .bg-image-main{
 
-    background-image: url(landing-bg.jpg);   
+    background-image: url(image/landing-bg.jpg);   
 background-size: cover; /* or contain, depending on your needs */
   background-position: center center;
   background-repeat: no-repeat;
@@ -260,7 +260,7 @@ img {
     flex-direction: column;
 
     margin-top: 7rem;
-    background-image: url(landing-bg.jpg);
+    background-image: url(image/landing-bg.jpg);
     height: 80%;
     width: 100%;
     background-size: cover; /* or contain, depending on your needs */
