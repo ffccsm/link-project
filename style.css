@@ -177,6 +177,7 @@ background-size: cover; /* or contain, depending on your needs */
     align-items: center;
     margin-top: 17rem;
     gap: 1rem;
+    cursor: pointer;
     
 
     
@@ -363,6 +364,9 @@ img {
     align-items: center;
     
 }
+
+
+    
 
 
 

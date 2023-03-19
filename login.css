@@ -1,0 +1,174 @@
+body {
+
+    background: rgb(82,78,154);
+    font-family: sans-serif;
+background: linear-gradient(90deg, rgba(82,78,154,1) 0%, rgba(68,75,191,1) 25%, rgba(114,125,153,1) 46%, rgba(0,212,255,1) 100%);
+}
+
+.container-brand {
+
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+
+
+.nav-left ul{
+
+    display: flex;
+    align-items: center;
+    
+
+
+}
+
+.nav-item {
+    text-decoration: none;
+}
+
+.nav-left li {
+
+    list-style: none;
+    padding: 7px;
+    color: white;
+    
+}
+
+
+.nav-right ul{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+ 
+.nav-right li {
+
+    list-style: none;
+    padding: 7px;
+    color: white;
+}
+
+.nav-left, .nav-right {
+
+    margin-top: 0.5rem;
+    margin-left: 0.9rem;
+    margin-right: 2rem;
+    
+    font-size: .875rem;
+    line-height: 1.25rem;
+
+}
+
+ {
+
+    
+    
+}
+
+.brand-logo img {
+
+    max-height: 2.25rem;
+    padding-right: 9px;
+
+}
+
+.tittle-name {
+
+    text-align: center;
+    margin-top: 3rem;
+    color: white;
+    
+}
+
+.login-container-2 {
+
+    height: 600px;
+    width: 500px;
+    background-color: rgb(151, 169, 184);
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5rem;
+
+
+    
+    
+}
+
+
+
+.login-btn-2 {
+
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;   
+    
+}
+
+input {
+
+    padding: 10px;
+    margin-top: 7px;
+    border-radius: 10px;
+    border-style: none;
+    text-align: center;
+    font-size: medium;
+    margin-bottom: 0.40rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;  
+}
+
+.Forget-btn {
+
+    font-size: x-small;
+    text-decoration: none;
+    color: rgb(110, 67, 67);
+    margin-bottom: 0.40rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;  
+    font-weight: bold;
+
+    
+}
+
+.bin-hit {
+
+    height: 25px;
+    width: 20rem;
+    background-color:#0275d8;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;  
+}
+
+.signup-se a  {
+
+    text-decoration: none;
+}
+
+.bin-hit:hover {
+
+    background-color:#5cb85c ;
+}
+
+
